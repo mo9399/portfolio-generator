@@ -1,7 +1,4 @@
 # Portfolio-generator
-
-# Portfolio Generator
-
 ## Purpose
 
 A generator that dynamically produces an HTML portfolio page from the command line.
